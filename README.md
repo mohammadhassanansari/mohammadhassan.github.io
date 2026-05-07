@@ -1,2 +1,2 @@
-ok jjjj
+ooook jjjj
 repo initialized
